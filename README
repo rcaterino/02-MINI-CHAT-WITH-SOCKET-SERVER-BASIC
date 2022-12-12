@@ -1,0 +1,7 @@
+En este proyecto vamos a crear un mini chat, aprendiendo a utilizar web socket con la librería de Socket IO.
+
+para ello, hay que instalar la librería socket.io escribiento en la terminal: "npm i socket.io".
+
+Vamos a estar utilizando la librería Socket.io con una configuración para express, con lo cuál tambien tenemos que instalar express: "npm i express".
+
+Tambien vamos a utilizar Bootstrap 5 en nuestro front-end, instalando en nuestro proyecto la librería escribiendo en la terminal: "npm i bootstrap@5.2.3".
